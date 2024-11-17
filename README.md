@@ -8,6 +8,6 @@
 
 [GitHub](https://github.com/igor2000xp/8-javascript-advanced-1)
 
-[Noyion](https://www.notion.so/JavaScript-Advanced-1416bddbc491807ea41df783174ccc81)
+[Notion](https://www.notion.so/JavaScript-Advanced-1416bddbc491807ea41df783174ccc81)
 
 ***/Volumes/MacUss/Users/__louvre/mentoring-Poland/My-study-projects/JavaScript/UDEMY-Perple/javascript-advanced/8-javascript-advanced-1***
