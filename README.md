@@ -1,4 +1,6 @@
-# Links
+# Продвинутый курс по JavaScript с погружением в ООП, асинхронность, Event Loop, модульность, структуры данных и сборку
+
+## Links
 
 [UDRMY](https://www.udemy.com/course/javascript-advance/)
 
